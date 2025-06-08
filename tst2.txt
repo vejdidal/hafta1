@@ -1,2 +1,2 @@
-isin soyisim section 2görevbaşarılıaaaaaa
+echo isin soyisim section 2görevbaşarılıaaaaaa
 
