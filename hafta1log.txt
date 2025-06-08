@@ -1,3 +1,1 @@
-2025-02-17 14:30 - echo İsim Soyisim: Vejdi Dal
-2025-02-17 14:30 - echo Bölüm: Section 2
-2025-06-08 14:30 - echo Görev durumu: Başarıyla tamamlandı (Görev başarılıaaaaaa)
+2025-02-17 14:30 - echo İsim Soyisim: Vejdi Dal Section 2 Görev başarılıaaaaaa
